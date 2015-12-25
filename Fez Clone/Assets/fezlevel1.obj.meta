@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: 18ef3bb8e0e43c245a082779638a2152
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Dirt
+    100002: //RootNode
+    100004: Grass
+    100006: Iron_Block
+    100008: Rose
+    100010: Stone_Brick
+    100012: Tall_Grass
+    100014: Vines
+    400000: Dirt
+    400002: //RootNode
+    400004: Grass
+    400006: Iron_Block
+    400008: Rose
+    400010: Stone_Brick
+    400012: Tall_Grass
+    400014: Vines
+    2300000: Dirt
+    2300002: Grass
+    2300004: Iron_Block
+    2300006: Rose
+    2300008: Stone_Brick
+    2300010: Tall_Grass
+    2300012: Vines
+    3300000: Dirt
+    3300002: Grass
+    3300004: Iron_Block
+    3300006: Rose
+    3300008: Stone_Brick
+    3300010: Tall_Grass
+    3300012: Vines
+    4300000: Dirt
+    4300002: Grass
+    4300004: Iron_Block
+    4300006: Rose
+    4300008: Stone_Brick
+    4300010: Tall_Grass
+    4300012: Vines
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
